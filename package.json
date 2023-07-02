@@ -1,0 +1,8 @@
+{
+  "name": "chronastic",
+  "version": "1.0.0",
+  "description": "A fantastic way to track your time :)",
+  "repository": "git@github.com:jpellissari/chronastic.git",
+  "author": "João Henrique M Pellissari <pellissari.joao@gmail.com>",
+  "license": "MIT"
+}
