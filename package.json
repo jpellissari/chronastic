@@ -4,5 +4,9 @@
   "description": "A fantastic way to track your time :)",
   "repository": "git@github.com:jpellissari/chronastic.git",
   "author": "João Henrique M Pellissari <pellissari.joao@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "typescript": "^5.1.6"
+  }
 }
