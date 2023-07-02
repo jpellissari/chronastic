@@ -1,2 +1,2 @@
 # chronastic
-A fantastic way to manage time :)
+A fantastic way to track your time :)
